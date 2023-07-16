@@ -1,0 +1,6 @@
+Path to Goal = Initial Up Left Left
+Path Cost For DFS Agent = 3
+Number Of Visited/Expanded Nodes in DFS = 4
+Search Depth For DFS Agent = 3
+Time for DFS(nanoseconds)=1061000
+Time for DFS(seconds)=0
